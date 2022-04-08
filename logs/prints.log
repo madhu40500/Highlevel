@@ -1,0 +1,29 @@
+23:32:12.579 [main] INFO  com.highlevel.base.Baseclass - cliked on elemnet : css selector: textarea[placeholder='Add Calendar Description']] value typed is : random
+23:32:16.135 [main] INFO  com.highlevel.base.Baseclass - cliked on elemnet : css selector: input[placeholder='Enter Calendar Slug']] value typed is : Annamae504
+23:32:16.702 [main] INFO  com.highlevel.base.Baseclass - Clicked on elemnet:  xpath: //button[@id='cmp-calmodal__button--save']]
+23:32:27.688 [main] INFO  com.highlevel.base.Baseclass - loaded config file
+23:32:31.629 [main] INFO  com.highlevel.base.Baseclass - chrome browser is intialised
+23:32:39.612 [main] INFO  com.highlevel.base.Baseclass - Navigated to :https://app.gohighlevel.com/
+23:32:40.395 [main] INFO  com.highlevel.base.Baseclass - cliked on elemnet : xpath: //input[@id='email']] value typed is : madhuvanapalli007@gmail.com
+23:32:40.562 [main] INFO  com.highlevel.base.Baseclass - cliked on elemnet : xpath: //input[@id='password']] value typed is : Test@123
+23:32:40.674 [main] INFO  com.highlevel.base.Baseclass - Clicked on elemnet:  xpath: //button[normalize-space()='Sign in']]
+23:33:08.812 [main] INFO  com.highlevel.base.Baseclass - Clicked on elemnet:  xpath: //span[normalize-space()='Calendars']]
+23:33:10.923 [main] INFO  com.highlevel.base.Baseclass - Clicked on elemnet:  xpath: (//button[@class='btn btn-link btn--slug'])[2]]
+23:33:21.158 [main] INFO  com.highlevel.base.Baseclass - cliked on elemnet : xpath: //input[@placeholder='First Name']] value typed is : Annamae
+23:33:21.278 [main] INFO  com.highlevel.base.Baseclass - cliked on elemnet : xpath: //input[@placeholder='Last Name']] value typed is : Veum
+23:33:21.422 [main] INFO  com.highlevel.base.Baseclass - cliked on elemnet : xpath: //input[@placeholder='Phone']] value typed is : 8557054517
+23:33:21.579 [main] INFO  com.highlevel.base.Baseclass - cliked on elemnet : xpath: //input[@placeholder='Email']] value typed is : AnnamaeVeum@gmail.com
+23:33:21.670 [main] INFO  com.highlevel.base.Baseclass - Clicked on elemnet:  xpath: //button[@class='btn btn-schedule']]
+23:38:20.034 [main] INFO  com.highlevel.base.Baseclass - loaded config file
+23:38:26.025 [main] INFO  com.highlevel.base.Baseclass - chrome browser is intialised
+23:38:33.840 [main] INFO  com.highlevel.base.Baseclass - Navigated to :https://app.gohighlevel.com/
+23:38:35.080 [main] INFO  com.highlevel.base.Baseclass - cliked on elemnet : xpath: //input[@id='email']] value typed is : madhuvanapalli007@gmail.com
+23:38:35.233 [main] INFO  com.highlevel.base.Baseclass - cliked on elemnet : xpath: //input[@id='password']] value typed is : Test@123
+23:38:35.336 [main] INFO  com.highlevel.base.Baseclass - Clicked on elemnet:  xpath: //button[normalize-space()='Sign in']]
+23:38:56.259 [main] INFO  com.highlevel.base.Baseclass - Clicked on elemnet:  xpath: //span[normalize-space()='Calendars']]
+23:38:57.546 [main] INFO  com.highlevel.base.Baseclass - Clicked on elemnet:  xpath: (//button[@class='btn btn-link btn--slug'])[2]]
+23:39:05.103 [main] INFO  com.highlevel.base.Baseclass - cliked on elemnet : xpath: //input[@placeholder='First Name']] value typed is : Katelynn
+23:39:05.295 [main] INFO  com.highlevel.base.Baseclass - cliked on elemnet : xpath: //input[@placeholder='Last Name']] value typed is : Rowe
+23:39:05.495 [main] INFO  com.highlevel.base.Baseclass - cliked on elemnet : xpath: //input[@placeholder='Phone']] value typed is : 8557054517
+23:39:05.795 [main] INFO  com.highlevel.base.Baseclass - cliked on elemnet : xpath: //input[@placeholder='Email']] value typed is : KatelynnRowe@gmail.com
+23:39:05.922 [main] INFO  com.highlevel.base.Baseclass - Clicked on elemnet:  xpath: //button[@class='btn btn-schedule']]

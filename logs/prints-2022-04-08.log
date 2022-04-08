@@ -1,0 +1,43 @@
+12:27:03.356 [main] INFO  com.highlevel.base.Baseclass - Navigated to :https://app.gohighlevel.com/
+12:27:04.561 [main] INFO  com.highlevel.base.Baseclass - cliked on elemnet : xpath: //input[@id='email']] value typed is : madhuvanapalli007@gmail.com
+12:27:04.717 [main] INFO  com.highlevel.base.Baseclass - cliked on elemnet : xpath: //input[@id='password']] value typed is : Test@123
+12:27:04.827 [main] INFO  com.highlevel.base.Baseclass - Clicked on elemnet:  xpath: //button[normalize-space()='Sign in']]
+12:28:28.198 [main] INFO  com.highlevel.base.Baseclass - loaded config file
+12:28:32.624 [main] INFO  com.highlevel.base.Baseclass - chrome browser is intialised
+12:28:37.842 [main] INFO  com.highlevel.base.Baseclass - Navigated to :https://app.gohighlevel.com/
+12:28:38.950 [main] INFO  com.highlevel.base.Baseclass - cliked on elemnet : xpath: //input[@id='email']] value typed is : madhuvanapalli007@gmail.com
+12:28:39.108 [main] INFO  com.highlevel.base.Baseclass - cliked on elemnet : xpath: //input[@id='password']] value typed is : Test@123
+12:28:39.214 [main] INFO  com.highlevel.base.Baseclass - Clicked on elemnet:  xpath: //button[normalize-space()='Sign in']]
+12:34:50.060 [main] INFO  com.highlevel.base.Baseclass - loaded config file
+12:34:54.745 [main] INFO  com.highlevel.base.Baseclass - chrome browser is intialised
+12:35:06.146 [main] INFO  com.highlevel.base.Baseclass - Navigated to :https://app.gohighlevel.com/
+12:35:07.196 [main] INFO  com.highlevel.base.Baseclass - cliked on elemnet : xpath: //input[@id='email']] value typed is : madhuvanapalli007@gmail.com
+12:35:07.366 [main] INFO  com.highlevel.base.Baseclass - cliked on elemnet : xpath: //input[@id='password']] value typed is : Test@123
+12:35:07.478 [main] INFO  com.highlevel.base.Baseclass - Clicked on elemnet:  xpath: //button[normalize-space()='Sign in']]
+12:40:05.676 [main] INFO  com.highlevel.base.Baseclass - loaded config file
+12:40:11.810 [main] INFO  com.highlevel.base.Baseclass - chrome browser is intialised
+12:40:18.311 [main] INFO  com.highlevel.base.Baseclass - Navigated to :https://app.gohighlevel.com/
+12:40:19.597 [main] INFO  com.highlevel.base.Baseclass - cliked on elemnet : xpath: //input[@id='email']] value typed is : madhuvanapalli007@gmail.com
+12:40:19.766 [main] INFO  com.highlevel.base.Baseclass - cliked on elemnet : xpath: //input[@id='password']] value typed is : Test@123
+12:40:19.878 [main] INFO  com.highlevel.base.Baseclass - Clicked on elemnet:  xpath: //button[normalize-space()='Sign in']]
+12:41:01.188 [main] INFO  com.highlevel.base.Baseclass - loaded config file
+12:41:05.818 [main] INFO  com.highlevel.base.Baseclass - chrome browser is intialised
+12:41:11.586 [main] INFO  com.highlevel.base.Baseclass - Navigated to :https://app.gohighlevel.com/
+12:41:12.646 [main] INFO  com.highlevel.base.Baseclass - cliked on elemnet : xpath: //input[@id='email']] value typed is : madhuvanapalli007@gmail.com
+12:41:12.827 [main] INFO  com.highlevel.base.Baseclass - cliked on elemnet : xpath: //input[@id='password']] value typed is : Test@123
+12:41:12.949 [main] INFO  com.highlevel.base.Baseclass - Clicked on elemnet:  xpath: //button[normalize-space()='Sign in']]
+12:43:06.247 [main] INFO  com.highlevel.base.Baseclass - loaded config file
+12:43:10.756 [main] INFO  com.highlevel.base.Baseclass - chrome browser is intialised
+12:43:16.540 [main] INFO  com.highlevel.base.Baseclass - Navigated to :https://app.gohighlevel.com/
+12:43:17.516 [main] INFO  com.highlevel.base.Baseclass - cliked on elemnet : xpath: //input[@id='email']] value typed is : madhuvanapalli007@gmail.com
+12:43:17.699 [main] INFO  com.highlevel.base.Baseclass - cliked on elemnet : xpath: //input[@id='password']] value typed is : Test@123
+12:43:17.807 [main] INFO  com.highlevel.base.Baseclass - Clicked on elemnet:  xpath: //button[normalize-space()='Sign in']]
+23:29:58.357 [main] INFO  com.highlevel.base.Baseclass - loaded config file
+23:30:40.220 [main] INFO  com.highlevel.base.Baseclass - chrome browser is intialised
+23:31:03.419 [main] INFO  com.highlevel.base.Baseclass - Navigated to :https://app.gohighlevel.com/
+23:31:06.799 [main] INFO  com.highlevel.base.Baseclass - cliked on elemnet : xpath: //input[@id='email']] value typed is : madhuvanapalli007@gmail.com
+23:31:06.966 [main] INFO  com.highlevel.base.Baseclass - cliked on elemnet : xpath: //input[@id='password']] value typed is : Test@123
+23:31:07.134 [main] INFO  com.highlevel.base.Baseclass - Clicked on elemnet:  xpath: //button[normalize-space()='Sign in']]
+23:31:47.801 [main] INFO  com.highlevel.base.Baseclass - Clicked on elemnet:  xpath: //span[normalize-space()='Calendars']]
+23:31:51.796 [main] INFO  com.highlevel.base.Baseclass - Clicked on elemnet:  xpath: (//div[@id='pg-team-cal__button--create-calendar'])[2]]
+23:32:11.545 [main] INFO  com.highlevel.base.Baseclass - cliked on elemnet : css selector: input[placeholder='Add Calendar Name']] value typed is : Rebeka Gleichner

@@ -1,0 +1,50 @@
+19:31:58.900 [main] INFO  base.Baseclass - Clicked on elemnet:  xpath: (//button[@class='btn btn-link btn--slug'])[2]]
+19:35:08.468 [main] INFO  base.Baseclass - loaded config file
+19:35:08.476 [main] INFO  base.Baseclass - loaded object file
+19:35:14.622 [main] INFO  base.Baseclass - driver intilised
+19:35:20.221 [main] INFO  base.Baseclass - cliked on elemnet : xpath: //input[@id='email']] value typed is : madhuvanapalli007@gmail.com
+19:35:20.392 [main] INFO  base.Baseclass - cliked on elemnet : xpath: //input[@id='password']] value typed is : Test@123
+19:35:20.588 [main] INFO  base.Baseclass - Clicked on elemnet:  xpath: //button[normalize-space()='Sign in']]
+19:35:37.082 [main] INFO  base.Baseclass - Clicked on elemnet:  xpath: //span[normalize-space()='Calendars']]
+19:35:37.466 [main] INFO  base.Baseclass - Clicked on elemnet:  xpath: (//button[@class='btn btn-link btn--slug'])[2]]
+19:37:39.914 [main] INFO  base.Baseclass - loaded config file
+19:37:39.918 [main] INFO  base.Baseclass - loaded object file
+19:37:45.720 [main] INFO  base.Baseclass - driver intilised
+19:37:50.139 [main] INFO  base.Baseclass - cliked on elemnet : xpath: //input[@id='email']] value typed is : madhuvanapalli007@gmail.com
+19:37:50.328 [main] INFO  base.Baseclass - cliked on elemnet : xpath: //input[@id='password']] value typed is : Test@123
+19:37:50.436 [main] INFO  base.Baseclass - Clicked on elemnet:  xpath: //button[normalize-space()='Sign in']]
+19:38:06.810 [main] INFO  base.Baseclass - Clicked on elemnet:  xpath: //span[normalize-space()='Calendars']]
+19:38:07.452 [main] INFO  base.Baseclass - Clicked on elemnet:  xpath: (//button[@class='btn btn-link btn--slug'])[2]]
+19:39:04.900 [main] INFO  base.Baseclass - loaded config file
+19:39:04.909 [main] INFO  base.Baseclass - loaded object file
+19:39:11.163 [main] INFO  base.Baseclass - driver intilised
+19:39:17.524 [main] INFO  base.Baseclass - cliked on elemnet : xpath: //input[@id='email']] value typed is : madhuvanapalli007@gmail.com
+19:39:17.691 [main] INFO  base.Baseclass - cliked on elemnet : xpath: //input[@id='password']] value typed is : Test@123
+19:39:17.801 [main] INFO  base.Baseclass - Clicked on elemnet:  xpath: //button[normalize-space()='Sign in']]
+19:39:33.968 [main] INFO  base.Baseclass - Clicked on elemnet:  xpath: //span[normalize-space()='Calendars']]
+19:39:35.014 [main] INFO  base.Baseclass - Clicked on elemnet:  xpath: (//button[@class='btn btn-link btn--slug'])[2]]
+19:47:07.604 [main] INFO  base.Baseclass - loaded config file
+19:47:07.611 [main] INFO  base.Baseclass - loaded object file
+19:47:14.821 [main] INFO  base.Baseclass - driver intilised
+19:47:22.004 [main] INFO  base.Baseclass - cliked on elemnet : xpath: //input[@id='email']] value typed is : madhuvanapalli007@gmail.com
+19:47:22.175 [main] INFO  base.Baseclass - cliked on elemnet : xpath: //input[@id='password']] value typed is : Test@123
+19:47:22.350 [main] INFO  base.Baseclass - Clicked on elemnet:  xpath: //button[normalize-space()='Sign in']]
+19:47:39.376 [main] INFO  base.Baseclass - Clicked on elemnet:  xpath: //span[normalize-space()='Calendars']]
+19:47:41.978 [main] INFO  base.Baseclass - Clicked on elemnet:  xpath: (//button[@class='btn btn-link btn--slug'])[2]]
+19:52:08.372 [main] INFO  base.Baseclass - loaded config file
+19:52:08.378 [main] INFO  base.Baseclass - loaded object file
+19:52:13.224 [main] INFO  base.Baseclass - driver intilised
+19:52:19.924 [main] INFO  base.Baseclass - cliked on elemnet : xpath: //input[@id='email']] value typed is : madhuvanapalli007@gmail.com
+19:52:20.157 [main] INFO  base.Baseclass - cliked on elemnet : xpath: //input[@id='password']] value typed is : Test@123
+19:52:20.276 [main] INFO  base.Baseclass - Clicked on elemnet:  xpath: //button[normalize-space()='Sign in']]
+19:52:35.644 [main] INFO  base.Baseclass - Clicked on elemnet:  xpath: //span[normalize-space()='Calendars']]
+19:52:36.641 [main] INFO  base.Baseclass - Clicked on elemnet:  xpath: (//button[@class='btn btn-link btn--slug'])[2]]
+19:52:47.727 [main] INFO  base.Baseclass - cliked on elemnet : xpath: //input[@placeholder='First Name']] value typed is : Kennedy
+19:52:47.894 [main] INFO  base.Baseclass - cliked on elemnet : xpath: //input[@placeholder='Last Name']] value typed is : Cormier
+19:52:48.061 [main] INFO  base.Baseclass - cliked on elemnet : xpath: //input[@placeholder='Phone']] value typed is : 8557054517
+19:52:48.297 [main] INFO  base.Baseclass - cliked on elemnet : xpath: //input[@placeholder='Email']] value typed is : KennedyCormier@gmail.com
+19:52:48.402 [main] INFO  base.Baseclass - Clicked on elemnet:  xpath: //button[@class='btn btn-schedule']]
+19:55:21.650 [main] INFO  base.Baseclass - loaded config file
+19:55:21.656 [main] INFO  base.Baseclass - loaded object file
+19:55:28.772 [main] INFO  base.Baseclass - driver intilised
+19:55:34.302 [main] INFO  base.Baseclass - cliked on elemnet : xpath: //input[@id='email']] value typed is : madhuvanapalli007@gmail.com
